@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/KhanhTQ-Organization/com.ktgame.services.facebook/compare/v1.0.0...v1.0.1) (2026-04-10)
+
+
+### Bug Fixes
+
+* update version ([adde0b7](https://github.com/KhanhTQ-Organization/com.ktgame.services.facebook/commit/adde0b7a85770bf1e4407b21674a04a4fcd05fb4))
+
 # 1.0.0 (2026-04-10)
 
 
