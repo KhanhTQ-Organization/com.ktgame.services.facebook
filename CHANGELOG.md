@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-10)
+
+
+### Bug Fixes
+
+* release sdk service ([e0998c1](https://github.com/KhanhTQ-hub/com.ktgame.services.facebook/commit/e0998c15558b933fdfae477b225b242d4e3f175d))
+
 ## [1.0.5](https://github.com/KhanhTQ-Organization/com.ktgame.services.audio/compare/v1.0.4...v1.0.5) (2026-01-06)
 
 
