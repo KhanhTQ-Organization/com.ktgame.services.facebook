@@ -1,0 +1,20 @@
+{
+    "name": "com.ktgame.services.facebook.editor",
+    "rootNamespace": "com.ktgame.services.facebook.editor",
+    "references": [
+        "GUID:07fa84c8891424e60a3080653dd9d1e0",
+        "GUID:ea2ae37156ab74bd0b7bf06641413d82",
+        "GUID:6b1604f11320c56418e83a8b62b47b20"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

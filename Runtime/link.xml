@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="com.ktgame.services.facebook" ignoreIfMissing="1">
+        <namespace fullname="com.ktgame.services.facebook" preserve="all"/>
+    </assembly>
+</linker>
